@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost anything.
 - 🌱 I’m currently learning to program on C#
 - 💞️ I’m looking to collaborate on anything I can be in use.
-- 📫 How to reach me?  - b_eftimov@yahoo.com!
+- 📫 How to reach me?  - b_eftimov@yahoo.com
 
 <!---
 captain760/captain760 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
