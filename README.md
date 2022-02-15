@@ -1,7 +1,7 @@
 - 👋 Hi! My name is Boris Eftimov.
 - 👀 I’m interested in almost everything.
 - 🌱 I’m currently learning to program on C#
-- 💞️ I’m looking to collaborate on anything I can be in use.
+- 💞️ I’m looking to collaborate on whatever I can be in use.
 - 📫 How to reach me?  - b_eftimov@yahoo.com
 
 <!---
